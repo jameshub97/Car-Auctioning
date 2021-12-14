@@ -1,0 +1,47 @@
+Errors with SQL. 
+
+Warning in ./libraries/sql.lib.php#613
+ count(): Parameter must be an array or an object that implements Countable
+
+Backtrace
+
+./libraries/sql.lib.php#2128: PMA_isRememberSortingOrder(array)
+./libraries/sql.lib.php#2079: PMA_executeQueryAndGetQueryResponse(
+array,
+boolean true,
+string 'x2h03',
+string 'users',
+NULL,
+NULL,
+NULL,
+NULL,
+NULL,
+NULL,
+string '',
+string './themes/pmahomme/img/',
+NULL,
+NULL,
+NULL,
+string 'SELECT * FROM `users`',
+NULL,
+NULL,
+)
+./sql.php#221: PMA_executeQueryAndSendQueryResponse(
+array,
+boolean true,
+string 'x2h03',
+string 'users',
+NULL,
+NULL,
+NULL,
+NULL,
+NULL,
+NULL,
+string '',
+string './themes/pmahomme/img/',
+NULL,
+NULL,
+NULL,
+string 'SELECT * FROM `users`',
+NULL,
+NULL,

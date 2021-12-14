@@ -1,0 +1,16 @@
+
+Login system and error handling associated was created following tutorial from  tutorial republic which has full credit to.
+https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php
+Access Date : 11/05/04*
+
+Commenting system this was  creating following tutorial by youtuber Lena Kiki.
+https://www.youtube.com/watch?v=O4BkHj7Ws9U.
+Access Date : 13/05/04*
+
+*PHP File uploader system was created following tutorial from w3 schools
+https://www.w3schools.com/php/php_file_upload.asp*
+Access Date : 17/05/04*
+
+*Captcha guide was used following.
+https://www.itsolutionstuff.com/post/php-how-to-implement-google-new-recaptcha-code-example-with-demoexample.html
+Access Date : 17/05/04*
